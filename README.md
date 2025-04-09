@@ -1,11 +1,19 @@
-- 👋 Hi, I’m Manish Anand
-- 👀 I’m interested in app developement and making projects that helps people
-- 🌱 I’m currently learning app developement
-- 📫 How to reach me [ anandmanish24162@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00FF95&center=true&vCenter=true&width=435&lines=Web+%26+App+Dev+Learner;Builder+in+Silence.;Code.+Create.+Repeat.)
 
-<!---
-ManishAnand79/ManishAnand79 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->24162
+# Hi, I'm Manish  
+### Learning. Building. No Noise.
+
+---
+
+Currently exploring **Web & App Development** — focusing on frontend, UI, and real-world logic.  
+I’m here to build tools that are simple, useful, and meaningful.
+
+---
+
+> Minimal talk. Max code.  
+> Just working in silence — progress will speak.
+
+---
+
+## Contact  
+**`anandmanish24162@gmail.com`**
